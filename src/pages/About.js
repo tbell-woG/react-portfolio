@@ -10,7 +10,7 @@ function About() {
        
         {/* Title */}
         <div className="row mb-5">
-          <h1>Hello, I'm Tamira.  It's nice to meet you.</h1>
+          <h1>Hello, I am TamiraBell.</h1>
         </div>
 
         {/* Row to hold my picture and about me section */}
