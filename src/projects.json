@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "In-Solez",
+      "image": "./../assets/images/In-solez.png",
+      "description": "A social platform app that lets users view a database of sneakers, save it to their collection, showcase their sneakers with other users",
+      "tryLink": "https://in-solez.herokuapp.com/",
+      "repository":  "https://github.com/tbell-woG/In-Solez/"
+    },
+    {
+      "id": 4,
+      "name": "Plant Scout",
+      "image": "./../assets/images/plant-scout.png",
+      "description": "An application that retrieves, displays, and saves weather data for cities and all types of plants.",
+      "tryLink": "https://tbell-wog.github.io/plant-scout/",
+      "repository": "https://github.com/tbell-woG/plant-scout/"
+    },
+    {
+      "id": 5,
+      "name": "Weather Dashboard",
+      "image": "./../assets/images/weather-dashboard.png",
+      "description": "A weather dashboard application that will retrieve, display, and save weather data for cities.",
+      "tryLink": "https://tbell-wog.github.io/weather-dashboard/",
+      "repository":  "https://github.com/tbell-woG/weather-dashboard/"
+    },
+    {
+      "id": 10,
+      "name": "Eat-da-Burger",
+      "image": "./../assets/images/eat-da-burger.png",
+      "description": "A restaurant app that lets users input the names of burgers they'd like to eat and then alllow them to devour the burger.",
+      "tryLink": "https://eat-da-burger-tbell.herokuapp.com/",
+      "repository": "https://github.com/tbell-woG/eat-da-burger/"
+    },
+    {
+      "id": 13,
+      "name": "Work Day Scheduler",
+      "image": "./../assets/images/work-day-scheduler.png",
+      "description": "A simple calendar application that allows a user to save events for each hour of the day.",
+      "tryLink": "https://tbell-wog.github.io/day-planner/",
+      "repository": "https://github.com/tbell-woG/day-planner"
+    }
+  ]
