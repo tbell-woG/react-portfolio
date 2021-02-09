@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import tamirabell-headshot from './../assets/images/tamirabell-headshot.jpg';
+import tamirabellheadshot from './../assets/images/tamirabellheadshot.jpg';
 import './../assets/styles/about.css';
 
 function About() {
@@ -19,7 +19,7 @@ function About() {
           {/* Column to hold my picture and icons */}
           <div className="col-lg-6">
 
-            <img src={tamirabell-headshot} alt="tamirabell-headshot" className="w-100" />
+            <img src={tamirabellheadshot} alt="tamirabellheadshot" className="w-100" />
 
             <p>Contact Me:</p>
             <div className="row">
