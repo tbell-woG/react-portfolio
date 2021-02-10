@@ -20,7 +20,7 @@ The focus of this project was to create a web application featuring my biography
 #
 <br>
 
-<img src="https://i.ibb.co/LhGvWCG/Screen-Shot-2021-02-05-at-10-43-59-PM.png" alt="Screen-Shot-2021-02-05-at-10-43-59-PM" border="0">
+<img src="https://i.ibb.co/37tr1tG/Screen-Shot-2021-02-10-at-4-43-01-AM.png" alt="Screen-Shot-2021-02-10-at-4-43-01-AM" border="0">
 <br>
 <br>
 
