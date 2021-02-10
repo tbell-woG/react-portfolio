@@ -23,6 +23,13 @@ function Contact() {
            <i className="fab fa-github icon"> GitHub</i>
          </a>
        </p>
+
+       <p>
+         <a href="tel:2677138792" target="_blank" rel="noopener noreferrer">
+           <i className="call-button">Click to Call</i>
+         </a>
+       </p>
+
      </div>
     </div>
     
