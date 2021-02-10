@@ -4,6 +4,15 @@
     /* margin-top: 1rem; */
   }
   
-  .aboutText {
+.aboutText {
     font-size: 0.85rem;
-  }
+}
+
+.w-100 {
+    width: 100%!important;
+}
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}

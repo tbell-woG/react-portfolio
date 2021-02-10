@@ -21,12 +21,12 @@ function About() {
 
             <img src={tamirabellheadshot} alt="tamirabellheadshot" className="w-100" />
 
-            <p>Contact Me:</p>
+            {/* <p>Contact Me:</p>
             <div className="row">
               <a href="https://github.com/tbell-woG" target="_blank" rel="noopener noreferrer"><i className="fab fa-github icon"></i></a>
               <a href="https://www.linkedin.com/in/tamira-bell" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin icon"></i></a>
               <a href="mailto:tamira.bell@gmail.com"><i className="fas fa-envelope icon"></i></a>
-            </div>
+            </div> */}
             
           </div>
 
